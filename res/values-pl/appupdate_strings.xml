@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
     <string name="update_latest">Posiadasz najnowszą wersję</string>
     <string name="update_title">Nowa aktualizacja</string>
     <string name="update_message">Oprogramowanie musi zostać zaktualizowane！</string>
